@@ -1,16 +1,16 @@
 @font-face {
   font-family: "TT Lakes";
-  src: url('/one_three/fonts/TTLakes-Bold.woff');
+  src: url(/one_three/fonts/TTLakes-Bold.woff);
 }
 
 @font-face {
   font-family: "TT Lakes Light";
-  src: url('/one_three/fonts/TTLakes-Light.woff');
+  src: url(/one_three/fonts/TTLakes-Light.woff);
 }
 
 @font-face {
   font-family: "TT Lakes Medium";
-  src: url('/one_three/fonts/TTLakes-Medium.woff');
+  src: url(/one_three/fonts/TTLakes-Medium.woff);
 }
 
 * {
